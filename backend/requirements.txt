@@ -1,0 +1,5 @@
+Flask>=3.1,<4
+Flask-Cors>=6.0,<7
+sentry-sdk[flask]>=2.72,<3
+python-dotenv>=1.2,<2
+pytest>=9,<10
